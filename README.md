@@ -66,3 +66,6 @@ BIZIMANA EMMANUEL
 
 AI Infrastructure | Data Platform | Enterprise Technology
 
+## AI Platform Architecture
+
+![AI Platform Architecture](Architecture-Diagrams/AI_Platform_Architecture.png)
